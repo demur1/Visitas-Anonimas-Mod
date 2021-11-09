@@ -1,8 +1,9 @@
-# Visitas-Anonimas-Mod
-Está aplicación es una modificación de Visitas Anonimas que fue creada por GokuBlack 
-
-#Está aplicacion fue editada al 100% con "ApkEditor" Usando la opción "Xml*
-
-#Esta aplicación fue creada con fines educativos y no me hago cargo de lo que haga con ella
-
-#No Hay Source code 😎
+# VISITAS ANONIMAS MOD BY DEMUR: ES UN MOD DE UNA APLICACIÓN CREADA POR UN YOUTUBER QUE SUBIA CONTENDIO DE TUTORIALES. LA APLICACIÓN EN CUESTIÓN ES PARA TENER VISITAS PONIENDO EL NUMERO EM LA BARRA DE NUMEROS Y EL LINK
+# ¿PORQUE SE CREÓ? : Está aplicación se creo con fines educativos y no me hago responsable de lo que se haga con la aplicación
+# ¿V4? : Probablemente no
+# ¿Source Code? : No logré conseguir el source code cuando salió lamentable solo tengo el decompilado de la aplicación y no se puede hacer mucho
+# ¿Libre para editarse y ser el ""dueño"? : No lo sé eso hay que preguntarle al creador original en cuestión
+# ¿Dónde puedo contactar al Creador? : https://youtube.com/channel/UC5WIUVa3R0NBACHpXIm0lAw
+# ¿Se puede editar sin tener problemas? : Yo no tuve ningún tipo de problema al editar los xml así que en teoría si lo hacen bien no tendrán problemas a la hora de editarlo
+# ¿Son visitas de personas o bots? : No son ninguna de las dos, tu y tu dirección IP son las visitas (tu eres la visita)
+# ¿Legal? : En si la aplicación no rompe ninguna ley asi que si, es legal pero nose hasta que punto
