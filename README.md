@@ -1,4 +1,4 @@
-# VISITAS ANONIMAS MOD BY DEMUR: ES UN MOD DE UNA APLICACIÓN CREADA POR UN YOUTUBER QUE SUBIA CONTENDIO DE TUTORIALES. LA APLICACIÓN EN CUESTIÓN ES PARA TENER VISITAS PONIENDO EL NUMERO EM LA BARRA DE NUMEROS Y EL LINK
+# VISITAS ANONIMAS MOD BY DEMUR: ES UN MOD DE UNA APLICACIÓN CREADA POR UN YOUTUBER QUE SUBIA CONTENDIO DE TUTORIALES. LA APLICACIÓN EN CUESTIÓN ES PARA TENER VISITAS PONIENDO EL NUMERO EN LA BARRA DE NUMEROS Y EL LINK
 # ¿PORQUE SE CREÓ? : Está aplicación se creo con fines educativos y no me hago responsable de lo que se haga con la aplicación
 # ¿V4? : Probablemente no
 # ¿Source Code? : No logré conseguir el source code cuando salió lamentable solo tengo el decompilado de la aplicación y no se puede hacer mucho
