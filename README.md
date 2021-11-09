@@ -7,3 +7,4 @@
 # ¿Se puede editar sin tener problemas? : Yo no tuve ningún tipo de problema al editar los xml así que en teoría si lo hacen bien no tendrán problemas a la hora de editarlo
 # ¿Son visitas de personas o bots? : No son ninguna de las dos, tu y tu dirección IP son las visitas (tu eres la visita)
 # ¿Legal? : En si la aplicación no rompe ninguna ley asi que si, es legal pero nose hasta que punto
+# ¿Andorid 11? : Está aplicación fue probada con Andorid 11 ( ❕ REPORTAR PROBLEMAS❕ )
